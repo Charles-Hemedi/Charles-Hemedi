@@ -52,7 +52,7 @@ E-commerce web site.
 
 ## 📫 Contact Me
 - ✉️ Email: hemedicharles@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/hemedi-charles-9a6385a2
+- 🔗 LinkedIn:https://www.linkedin.com/in/hemedi-charles-9a6385a2/
 - 🌐 Portfolio: https://charles-hemedi.github.io/Charles-Hemedi/  
 
 ---
